@@ -41,20 +41,21 @@
 10. [Largest subarray with 0 sum](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) 🟡 Medium
 11. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - 🟢 Easy
 12. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) - 🟡 Medium
-13. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) 🟡 Medium
-14. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) - 🟡 Medium
-15. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - 🟡 Medium
-16. [3 Sum](https://leetcode.com/problems/3sum/) - 🟡 Medium
-17. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - 🟡 Medium
-18. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) - 🔴 Hard
-19.  [Missing and Repeating in an Array](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/) - 🔴 Hard
-20. [Chocolate Distribution Problem](https://leetcode.com/problems/distribute-chocolates/) - 🟢 Easy
-21. [Insert Interval](https://leetcode.com/problems/insert-interval/) - 🔴 Hard
-22. [Merge Intervals](https://leetcode.com/problems/merge-intervals/) - 🟡 Medium
-23. [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) - 🟡 Medium
-24. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) - 🟡 Medium
-25. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) - 🟡 Medium
-26. [Program to find the transpose of a matrix](https://leetcode.com/problems/transpose-matrix/) - 🟢 Easy
+13. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) - 🟡 Medium
+14. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) 🟡 Medium
+15. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) - 🟡 Medium
+16. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - 🟡 Medium
+17. [3 Sum](https://leetcode.com/problems/3sum/) - 🟡 Medium
+18. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - 🟡 Medium
+19. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) - 🔴 Hard
+20.  [Missing and Repeating in an Array](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/) - 🔴 Hard
+21. [Chocolate Distribution Problem](https://leetcode.com/problems/distribute-chocolates/) - 🟢 Easy
+22. [Insert Interval](https://leetcode.com/problems/insert-interval/) - 🔴 Hard
+23. [Merge Intervals](https://leetcode.com/problems/merge-intervals/) - 🟡 Medium
+24. [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) - 🟡 Medium
+25. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) - 🟡 Medium
+26. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) - 🟡 Medium
+27. [Program to find the transpose of a matrix](https://leetcode.com/problems/transpose-matrix/) - 🟢 Easy
 
 ## 2. Strings
 19. [Word Search](https://leetcode.com/problems/word-search/) - 🟡 Medium
@@ -71,38 +72,53 @@
 
 ## 3. Linked List
 30. [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) - 🟢 Easy
-31. [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) - 🟢 Easy
-32. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - 🟢 Easy
-33. [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) - 🔴 Hard
-34. [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - 🟡 Medium
-35. [Reorder List](https://leetcode.com/problems/reorder-list/) - 🟡 Medium
-36. [Add 1 to a number represented as a linked list](https://leetcode.com/problems/plus-one-linked-list/) - 🟡 Medium
-37. [Find the middle of a given linked list](https://leetcode.com/problems/middle-of-the-linked-list/) - 🟢 Easy
-38. [Delete last occurrence of an item from a linked list](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) - 🟡 Medium
+31. [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) - 🟡 Medium
+32. [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) - 🟢 Easy
+33. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) - 🟡 Medium
+34. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - 🟢 Easy
+35. [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) - 🔴 Hard
+36. [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - 🟡 Medium
+37. [Reorder List](https://leetcode.com/problems/reorder-list/) - 🟡 Medium
+38. [Add 1 to a number represented as a linked list](https://leetcode.com/problems/plus-one-linked-list/) - 🟡 Medium
+39. [Find the middle of a given linked list](https://leetcode.com/problems/middle-of-the-linked-list/) - 🟢 Easy
+40. [Delete last occurrence of an item from a linked list](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) - 🟡 Medium
+41. [LRU Cache](https://leetcode.com/problems/lru-cache/description/) - 🟡 Medium
 
 ## 4. Stacks and Queues
 39. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - 🟢 Easy
 39. [Convert Infix expression to Postfix expression](https://leetcode.com/problems/evaluate-reverse-polish-notation/) - 🟡 Medium
 40. [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/) - 🟢 Easy
-41. [Delete middle element of a stack](https://leetcode.com/problems/delete-middle-element-of-a-stack/) - 🟡 Medium
+41. [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/) - 🟡 Medium
+42. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) - 🟢 Easy
+43. [Delete middle element of a stack](https://leetcode.com/problems/delete-middle-element-of-a-stack/) - 🟡 Medium
+44. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) - 🔴 Hard
 
 ## 5. Trees
-43. [Check mirror in an n-ary tree](https://leetcode.com/problems/symmetric-tree/) - 🟢 Easy
+41. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) -  🟢 Easy
+42. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) -  🟢 Easy
+43. [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) -  🟢 Easy
+44. [Check mirror in an n-ary tree](https://leetcode.com/problems/symmetric-tree/) - 🟢 Easy
+45. [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/) - 🟡 Medium
 43. [The Celebrity Problem](https://leetcode.com/problems/find-the-celebrity/) - 🟡 Medium
 44. [Length of the longest valid substring](https://leetcode.com/problems/longest-valid-parentheses/) - 🔴 Hard
-45. [Print Right View of a Binary Tree](https://leetcode.com/problems/binary-tree-right-side-view/) - 🟡 Medium
-46. [Find the first circular tour that visits all petrol pumps](https://leetcode.com/problems/gas-station/) - 🟡 Medium
-47. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) - 🟢 Easy
-48. [Check if two trees have the same structure](https://leetcode.com/problems/same-tree/) - 🟢 Easy
-49. [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) - 🟢 Easy
-50. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) - 🔴 Hard
-51. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) - 🟡 Medium
-52. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) - 🔴 Hard
-53. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) - 🟢 Easy
-54. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) - 🟡 Medium
-55. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) - 🟡 Medium
-56. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - 🟡 Medium
-57. [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) - 🟢 Easy
+45. [Left View of Binary Tree](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1) 🟡 Medium
+46. [Print Right View of a Binary Tree](https://leetcode.com/problems/binary-tree-right-side-view/) - 🟡 Medium
+47. [Find the first circular tour that visits all petrol pumps](https://leetcode.com/problems/gas-station/) - 🟡 Medium
+48. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) - 🟢 Easy
+49. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) - 🟢 Easy
+50. [Check if two trees have the same structure](https://leetcode.com/problems/same-tree/) - 🟢 Easy
+51. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) - 🟢 Easy
+52. [LCA in BT](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) - 🟡 Medium
+53. [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) - 🟢 Easy
+54. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) - 🔴 Hard
+55. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) - 🟡 Medium
+56. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) - 🟢 Easy
+57. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) - 🔴 Hard
+58. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) - 🟢 Easy
+59. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) - 🟡 Medium
+60. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) - 🟡 Medium
+61. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - 🟡 Medium
+62. [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) - 🟢 Easy
 
 ## 6. Trie
 59. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) - 🟡 Medium
@@ -110,6 +126,8 @@
 
 ## 7. Heap
 61. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - 🟡 Medium
+62. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) - 🟡 Medium
+63. [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) - 🟡 Medium
 61. [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) - 🔴 Hard
 62. [Largest triplet product in a stream](https://leetcode.com/problems/maximum-product-of-three-numbers/) - 🟢 Easy
 63. [Connect n ropes with minimum cost](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) - 🟡 Medium
