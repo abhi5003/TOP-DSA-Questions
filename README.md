@@ -31,22 +31,30 @@
 ## 1. Arrays
 1. [Check if pair with the given Sum exists in Array](https://leetcode.com/problems/two-sum/) - 🟢 Easy
 2. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - 🟢 Easy
-3. [Find duplicates](https://leetcode.com/problems/find-all-duplicates-in-an-array/) - 🟡 Medium
-4. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - 🟡 Medium
-5. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - 🟢 Easy
-6. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) - 🟡 Medium
-7. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) - 🟡 Medium
-8. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - 🟡 Medium
-9. [3 Sum](https://leetcode.com/problems/3sum/) - 🟡 Medium
-10. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - 🟡 Medium
-11. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) - 🔴 Hard
-12. [Chocolate Distribution Problem](https://leetcode.com/problems/distribute-chocolates/) - 🟢 Easy
-13. [Insert Interval](https://leetcode.com/problems/insert-interval/) - 🔴 Hard
-14. [Merge Intervals](https://leetcode.com/problems/merge-intervals/) - 🟡 Medium
-15. [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) - 🟡 Medium
-16. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) - 🟡 Medium
-17. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) - 🟡 Medium
-18. [Program to find the transpose of a matrix](https://leetcode.com/problems/transpose-matrix/) - 🟢 Easy
+3. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) 🟢 Easy
+4. [Majority Element](https://leetcode.com/problems/majority-element/description/) 🟢 Easy
+5. [Sort Colors](https://leetcode.com/problems/sort-colors/description/) - 🟢 Easy
+6. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) - 🟡 Medium
+7. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) - 🟡 Medium
+8. [Find duplicates](https://leetcode.com/problems/find-all-duplicates-in-an-array/) - 🟡 Medium
+9. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - 🟡 Medium
+10. [Largest subarray with 0 sum](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) 🟡 Medium
+11. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - 🟢 Easy
+12. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) - 🟡 Medium
+13. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) 🟡 Medium
+14. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) - 🟡 Medium
+15. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - 🟡 Medium
+16. [3 Sum](https://leetcode.com/problems/3sum/) - 🟡 Medium
+17. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - 🟡 Medium
+18. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) - 🔴 Hard
+19.  [Missing and Repeating in an Array](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/) - 🔴 Hard
+20. [Chocolate Distribution Problem](https://leetcode.com/problems/distribute-chocolates/) - 🟢 Easy
+21. [Insert Interval](https://leetcode.com/problems/insert-interval/) - 🔴 Hard
+22. [Merge Intervals](https://leetcode.com/problems/merge-intervals/) - 🟡 Medium
+23. [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) - 🟡 Medium
+24. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) - 🟡 Medium
+25. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) - 🟡 Medium
+26. [Program to find the transpose of a matrix](https://leetcode.com/problems/transpose-matrix/) - 🟢 Easy
 
 ## 2. Strings
 19. [Word Search](https://leetcode.com/problems/word-search/) - 🟡 Medium
